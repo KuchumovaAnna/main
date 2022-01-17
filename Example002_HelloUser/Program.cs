@@ -1,6 +1,6 @@
 ﻿Console.Write("Введите ваше имя ");
 
-string? GetUsername()
+string GetUsername()
 {
     return Console.ReadLine();
 }
